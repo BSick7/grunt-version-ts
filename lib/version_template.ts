@@ -1,3 +1,3 @@
 module %MODULE% {
-    export var version = '%VERSION%';
+    export var %LABEL% = '%VERSION%';
 }
